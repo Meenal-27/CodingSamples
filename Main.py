@@ -81,7 +81,7 @@ def deEmojify(text):
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  passwd="",
+  passwd="Kr1shna#",
   database="Twitter",
   charset = 'utf8'
 )
